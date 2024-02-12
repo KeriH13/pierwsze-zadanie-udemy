@@ -1,2 +1,2 @@
 # pierwsze-zadanie-udemy
-https://github.com/KeriH13/pierwsze-zadanie-udemy/edit/main/README.md
+https://kerih13.github.io/pierwsze-zadanie-udemy/
