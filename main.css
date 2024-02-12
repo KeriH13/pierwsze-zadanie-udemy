@@ -1,0 +1,70 @@
+* {
+	background-color: royalblue;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+div p {
+	color: gold;
+	text-align: center;
+	text-transform: capitalize;
+	font-size: 50px;
+}
+
+span {
+	color: black;
+	text-decoration: underline;
+	text-transform: capitalize;
+	font-size: 70px;
+	font-weight: bold;
+	/* padding-left: 100px; */
+	/* margin-left: 75px; */
+}
+
+p {
+	font-size: 100px;
+	color: tomato;
+	/* margin-top: 50px; */
+}
+.shadow {
+    text-shadow: 5px 5px 5px #000;
+}
+.p-1 {
+	padding: 75px;
+}
+.icon-code {
+	text-align: center;
+	background-color: #333;
+	height: 55px;
+	width: 300px;
+	padding: 100px;
+	margin: 80px;
+	border: 20px ridge rgb(251, 45, 13);
+    /* border-radius: 70px; */
+	color: lime;
+    /* text-shadow: 3px 3px 7px red;  */
+}
+
+.icon-code:hover {
+    text-shadow: 0px 0px 8px rgb(11, 216, 127);
+    border: 20px ridge rgb(6, 221, 42);
+}
+.container {
+	/* width: 300px;
+    height: 150px; */
+	background-color: black;
+}
+
+.fa-solid,
+.fa-code {
+	background-color: transparent;
+}
+
+
+/* .fa-solid:hover,
+.fa-code:hover {
+    text-shadow: 0px 0px 8px rgb(11, 216, 127);
+} */
+
